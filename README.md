@@ -1,4 +1,4 @@
-### 일병 "2호봉" 👋
+### 일병 "3호봉" 👋
 
 <!--
 **2e2guk/2e2guk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
