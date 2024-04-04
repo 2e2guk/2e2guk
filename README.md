@@ -5,9 +5,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 
-https://usaco.guide/dashboard/
-
-내 ToolBox, Algorithms 리포지토리 작성중
+ICPC 준비중,, Toolbox, Practice, ALgorithms Repo 작성중
 
 - 🌱 I’m currently learning ...
 
