@@ -9,7 +9,7 @@ ICPC 준비중,, Toolbox, Practice, ALgorithms Repo 작성중
 
 - 🌱 my stack ...
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,python,pytorch)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,python,pytorch,linux)](https://skillicons.dev)
 
 <a><img  src="https://solvedac-cards-starcea.paring.moe/profile/dlrkddnr2718" width=500px></a>
 
