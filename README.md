@@ -11,5 +11,5 @@ ICPC 준비중,, Toolbox, Practice, ALgorithms Repo 작성중
 
 Algorithms, Algorithmic Probelm Solving, Competitive programming
 
-<a><img  src="https://solvedac-cards-starcea.paring.moe/profile/dlrkddnr2718" width=300px></a>
+<a><img  src="https://solvedac-cards-starcea.paring.moe/profile/dlrkddnr2718" width=500px></a>
 
