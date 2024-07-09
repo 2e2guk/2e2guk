@@ -9,7 +9,7 @@ ICPC 준비중,, Toolbox, Practice, ALgorithms Repo 작성중
 
 - 🌱 I’m currently learning ...
 
-Algorithms, Algorithmic Probelm Solving, Competitive programming
+[![My Skills](https://skillicons.dev/icons?i=c++,python,pytorch)](https://skillicons.dev)
 
 <a><img  src="https://solvedac-cards-starcea.paring.moe/profile/dlrkddnr2718" width=500px></a>
 
