@@ -13,3 +13,5 @@ ICPC 준비중,, Toolbox, Practice, ALgorithms Repo 작성중
 
 <a><img  src="https://solvedac-cards-starcea.paring.moe/profile/dlrkddnr2718" width=500px></a>
 
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=chainsawman)
+
