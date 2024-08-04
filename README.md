@@ -13,5 +13,5 @@ ICPC 준비중,, Toolbox, Practice, ALgorithms Repo 작성중
 
 <a><img  src="https://solvedac-cards-starcea.paring.moe/profile/dlrkddnr2718" width=500px></a>
 
-[![CodeForces Profile](https://cf.leed.at?id=chainsawman)](https://codeforces.com/profile/chainsawman)
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=chainsawman)](https://codeforces.com/profile/chainsawman)
 
