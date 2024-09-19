@@ -7,6 +7,8 @@ Here are some ideas to get you started:
 
 ICPC 준비중,, Toolbox, Practice, ALgorithms Repo 작성중
 
+AI/ML 공부중
+
 - 🌱 my stack ...
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,python,pytorch,linux)](https://skillicons.dev)
