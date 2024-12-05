@@ -4,10 +4,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-
-ICPC 준비중,, Toolbox, Practice, ALgorithms Repo 작성중
-
-AI/ML 공부중
+- CV, NLP, Multi-Modal 논문 읽고 구현하기
 
 - 🌱 my stack ...
 
