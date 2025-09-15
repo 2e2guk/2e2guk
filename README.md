@@ -2,6 +2,7 @@
 
 - GANGUK LEE
 - email: igangug64@gmail.com
+- 2000.06.30
 
 ## Research interests
 - Multimodal AI
