@@ -6,6 +6,11 @@
 - VQA
 - Image Retrieval
 
+## Participation
+
+### GDG Dongguk Univ.
+- 
+
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,python,pytorch,tensorflow)](https://skillicons.dev)
 
