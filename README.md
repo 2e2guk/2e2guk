@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 
 <a><img  src="https://solvedac-cards-starcea.paring.moe/profile/dlrkddnr2718" width=500px></a>
 
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=chainsawman)](https://codeforces.com/profile/chainsawman)
 
