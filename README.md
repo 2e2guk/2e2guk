@@ -4,7 +4,9 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- CV, NLP, Multi-Modal 논문 읽고 구현하기
+- Multimodal AI
+- VQA
+- Image Retrieval
 
 - 🌱 my stack ...
 
