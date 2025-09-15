@@ -17,11 +17,11 @@
 - Dongguk Univ. Team DART
 
 ### Undergraduate Researcher 
-- 2025.1
+- 2025.1 ~ 
 - Smart Vision & Media Lab
 - https://sites.google.com/view/csi2267svm/
 
-
+## Skills
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,python,pytorch,tensorflow)](https://skillicons.dev)
 
