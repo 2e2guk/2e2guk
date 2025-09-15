@@ -1,5 +1,7 @@
+## Info
 
 **GANGUK LEE**
+-emmail: igangug64@gmail.com
 
 ## Research interests
 - Multimodal AI
