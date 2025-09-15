@@ -1,7 +1,7 @@
 
 **GANGUK LEE**
 
-- Research interests
+## Research interests
 - Multimodal AI
 - VQA
 - Image Retrieval
