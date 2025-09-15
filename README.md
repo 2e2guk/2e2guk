@@ -13,7 +13,7 @@
 
 ### GDG Dongguk Univ. 2nd Generation
 - 2024.9 ~ 2025.8
-- AI General Member
+- AI session, General Member
 
 ### 2024 ICPC Seoul Regional 
 - 2024.11
