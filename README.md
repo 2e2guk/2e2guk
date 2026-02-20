@@ -6,8 +6,7 @@
 
 ## Research interests
 - Multimodal AI
-- VQA
-- Image Retrieval
+- VLM
 
 ## Participation
 
