@@ -19,7 +19,7 @@
 - Dongguk Univ. Team DART
 
 ### Undergraduate Researcher 
-- 2025.1 ~ 
+- 2025.1 ~ 2026.4
 - Smart Vision & Media Lab
 - https://sites.google.com/view/csi2267svm/
 
@@ -27,6 +27,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,python,pytorch,tensorflow)](https://skillicons.dev)
 
-<a><img  src="https://solvedac-cards-starcea.paring.moe/profile/dlrkddnr2718" width=500px></a>
+<a><img src="https://solvedac-cards-starcea.paring.moe/profile/dlrkddnr2718" width=500px></a>
 
 
