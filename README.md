@@ -26,6 +26,6 @@
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,python,pytorch,tensorflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,python,pytorch)](https://skillicons.dev)
 
 
